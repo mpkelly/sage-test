@@ -1,0 +1,12 @@
+node_modules
+.editorconfig
+bud.config.ks
+composer.json
+composer.lock
+jsconfig.json
+LICENSE.md
+package.json
+README.md
+screenshot.png
+tailwind.config.js
+yarn.lock
